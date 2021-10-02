@@ -1,0 +1,31 @@
+.container {
+  width: 600px;
+  margin: auto;
+}
+ul li {
+  line-height: 4em;
+  font-size: large;
+}
+.foot {
+  margin-top: 50px;
+  text-align: center;
+}
+.man {
+  text-align: center;
+  margin-left: -18px;
+  font-style: italic;
+}
+img {
+  margin-left: 92px;
+}
+.heading {
+  margin-left: 20px;
+}
+body {
+  background: rgb(212, 212, 212);
+  margin: 20px 20px;
+}
+.white {
+  background-color: white;
+  border-radius: 23px;
+}
